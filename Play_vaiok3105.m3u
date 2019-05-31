@@ -1,0 +1,418 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+http://bit.ly/TestadorIPTVVideoApresentacao
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Детские", Ani
+http://hlsonline.info-link.ru/streaming/ani/324/vh1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Детские", Disney
+http://hlsonline.info-link.ru/streaming/disney/324/vh1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Детские", Ginger HD
+http://hlsonline.info-link.ru/streaming/gingerhd/324/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Детские", TiJi
+http://hlsonline.info-link.ru/streaming/tiji/324/vh1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Детские", Детский
+http://hlsonline.info-link.ru/streaming/detskiy/324/vh1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Детские", Канал Disney
+http://hlsonline.info-link.ru/streaming/disney/324/vm2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Детские", Карусель
+http://hlsonline.info-link.ru/streaming/karusel/324/vh1w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Детские", Малыш
+http://hlsonline.info-link.ru/streaming/malish/324/vh1w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Детские", Мульт
+http://hlsonline.info-link.ru/streaming/mult/324/vh1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Детские", Мультик HD
+http://hlsonline.info-link.ru/streaming/multikhd/324/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Детские", Мультимания
+http://hlsonline.info-link.ru/streaming/multimania/324/vh1w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Другие", Калейдоскоп ТВ
+http://hlsonline.info-link.ru/streaming/kaleidoskop/324/vh1w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Другие", ПРО БИЗНЕС
+http://hlsonline.info-link.ru/streaming/probusiness/324/vl2w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Другие", Смайлик
+http://hlsonline.info-link.ru/streaming/smile/324/vl2w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Другие", Точка ТВ
+http://hlsonline.info-link.ru/streaming/tochka/324/vh1w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Мужские", АВТО24
+http://hlsonline.info-link.ru/streaming/avto24/324/vh1w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Мужские", Автo Плюс
+http://hlsonline.info-link.ru/streaming/avtoplus/324/vh1w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Мужские", Бокс ТВ
+http://hlsonline.info-link.ru/streaming/bokstv/324/vh1w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Мужские", Горная страна
+http://hlsonline.info-link.ru/streaming/mountain/324/vl2w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Мужские", Оружие
+http://hlsonline.info-link.ru/streaming/orujie/324/vh1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Мужские", Охотник и рыболов HD
+http://hlsonline.info-link.ru/streaming/ohotnikhd/324/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Музыка", BRIDGE TV
+http://hlsonline.info-link.ru/streaming/bridgetv/324/vl2w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Музыка", BRIDGE TV CLASSIC
+http://hlsonline.info-link.ru/streaming/br.classic/324/vl2w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Музыка", BRIDGE TV DANCE
+http://hlsonline.info-link.ru/streaming/br.dance/324/vl2w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Музыка", Bridge TV Русский Хит
+http://hlsonline.info-link.ru/streaming/br.rushit/324/vl2w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Музыка", Music Box RU
+http://hlsonline.info-link.ru/streaming/musicbox/324/vh1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Музыка", Music Box TV
+http://hlsonline.info-link.ru/streaming/musicboxtv/324/vh1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Музыка", RU.TV
+http://hlsonline.info-link.ru/streaming/rutvnn/324/vl2w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Музыка", Наше ТВ
+http://hlsonline.info-link.ru/streaming/nashe/324/vh1w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Музыка", О2ТВ
+http://hlsonline.info-link.ru/streaming/o2tv/324/vh1w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Музыка", Шансон
+http://hlsonline.info-link.ru/streaming/shanson/324/vh1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Новостные", Russia Today
+http://hlsonline.info-link.ru/streaming/rt/324/vh1w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Новостные", Дождь
+http://hlsonline.info-link.ru/streaming/dojd/324/vh1w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Новостные", Известия
+http://hlsonline.info-link.ru/streaming/izvestia/324/vh1w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Новостные", Мир 24
+http://hlsonline.info-link.ru/streaming/mir24/324/vh1w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Новостные", РБК
+http://hlsonline.info-link.ru/streaming/rbk/324/vm2w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Познавательные", Animal Planet
+http://hlsonline.info-link.ru/streaming/animalplanet/324/vh1w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Познавательные", Animal Planet HD
+http://hlsonline.info-link.ru/streaming/animalhd/324/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Познавательные", Discovery HD
+http://hlsonline.info-link.ru/streaming/discoveryhd/324/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Познавательные", ID Investigation Discovery
+http://hlsonline.info-link.ru/streaming/idxtra/324/vh1w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Познавательные", Nat Geo Wild HD
+http://hlsonline.info-link.ru/streaming/natgeowildhd/324/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Познавательные", National Geographic
+http://hlsonline.info-link.ru/streaming/natgeo/324/vh1w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Познавательные", National Geographic HD
+http://hlsonline.info-link.ru/streaming/natgeohd/324/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Познавательные", RTG HD
+http://hlsonline.info-link.ru/streaming/rtghd/324/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Познавательные", RTG TV
+http://hlsonline.info-link.ru/streaming/rtg/324/vm2w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Познавательные", RTД HD
+http://hlsonline.info-link.ru/streaming/rtdhd/324/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Познавательные", Travel+ Adventure
+http://hlsonline.info-link.ru/streaming/travelhd/324/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Познавательные", В мире животных HD
+http://hlsonline.info-link.ru/streaming/animalshd/324/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Познавательные", Здopoвoе ТВ
+http://hlsonline.info-link.ru/streaming/zdorovoe/324/vh1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Познавательные", История
+http://hlsonline.info-link.ru/streaming/istoria/324/vh1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Познавательные", Моя Планета
+http://hlsonline.info-link.ru/streaming/myplanet/324/vh1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Познавательные", Нано
+http://hlsonline.info-link.ru/streaming/nano/324/vh1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Познавательные", Наука
+http://hlsonline.info-link.ru/streaming/nauka/324/vh1w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Познавательные", Пес и Ко
+http://hlsonline.info-link.ru/streaming/pesiko/324/vh1w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Познавательные", Приключения HD
+http://hlsonline.info-link.ru/streaming/adventurehd/324/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Познавательные", Успех
+http://hlsonline.info-link.ru/streaming/uspeh/324/vl2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Познавательные", Эврика HD
+http://hlsonline.info-link.ru/streaming/eurekahd/324/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Развлекательные", 2x2
+http://hlsonline.info-link.ru/streaming/2x2/324/vl2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Развлекательные", ACB TV
+http://hlsonline.info-link.ru/streaming/9volna/324/vh1w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Развлекательные", TLC
+http://hlsonline.info-link.ru/streaming/tlc/324/vh1w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Развлекательные", TLC HD
+http://hlsonline.info-link.ru/streaming/tlchd/324/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Развлекательные", Анекдoт ТВ
+http://hlsonline.info-link.ru/streaming/anekdot/324/vh1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Развлекательные", Живи
+http://hlsonline.info-link.ru/streaming/jivi/324/vh1w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Развлекательные", Сарафан
+http://hlsonline.info-link.ru/streaming/sarafan/324/vh1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Развлекательные", ТНТ4
+http://hlsonline.info-link.ru/streaming/tnt4/324/vh1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Развлекательные", Че
+http://hlsonline.info-link.ru/streaming/che/324/vm2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Региональные", 12 канал (Омск)
+http://hlsonline.info-link.ru/streaming/12channel/324/vl2w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Региональные", БелРос
+http://hlsonline.info-link.ru/streaming/belros/324/vl2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Региональные", Губерния ТВ (Хабаровск)
+http://hlsonline.info-link.ru/streaming/guberniya-h/324/vl2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Региональные", Ингушетия (Магас)
+http://hlsonline.info-link.ru/streaming/ingushetia/324/vl2w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Региональные", Катунь 24 (Барнаул)
+http://hlsonline.info-link.ru/streaming/katun24/324/vl2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Региональные", Краснодар он-лайн (Краснодар)
+http://hlsonline.info-link.ru/streaming/kransodar/324/vl2w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Региональные", Крым 24
+http://hlsonline.info-link.ru/streaming/crimea24/324/vl2w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Региональные", Лайм ТВ (Чувашия)
+http://hlsonline.info-link.ru/streaming/lime/324/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Региональные", Первый Крымский
+http://hlsonline.info-link.ru/streaming/1crimea/324/vl2w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Региональные", СВОЁТВ (Ставрополь)
+http://hlsonline.info-link.ru/streaming/svoetv/324/vl2w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Региональные", Север (Нарьян-Мар)
+http://hlsonline.info-link.ru/streaming/sever/324/vl2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Региональные", Сейм (Курск)
+http://hlsonline.info-link.ru/streaming/seim/324/vl2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Региональные", ТВ-Губерния (Воронеж)
+http://hlsonline.info-link.ru/streaming/guberniya/324/vl2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Региональные", ТНВ-Планета (Казань)
+http://hlsonline.info-link.ru/streaming/tnv-planet/324/vh1w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Региональные", Тюменское Время
+http://hlsonline.info-link.ru/streaming/tumentime/324/vl2w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Региональные", ЮТВ (Чебоксары)
+http://hlsonline.info-link.ru/streaming/utv/324/vm2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Региональные", Юрган (Сыктывкар)
+http://hlsonline.info-link.ru/streaming/urgan/324/vl2w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Религиозные", Спас
+http://hlsonline.info-link.ru/streaming/spas/324/vl2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Религиозные", Три Ангела
+http://hlsonline.info-link.ru/streaming/3angel/324/vl2w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Спорт", Eurosport 1 HD
+http://hlsonline.info-link.ru/streaming/eurosport1hd/324/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Спорт", КХЛ HD
+http://hlsonline.info-link.ru/streaming/khlhd/324/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Спорт", Конный Мир
+http://hlsonline.info-link.ru/streaming/konniy/324/vh1w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Спорт", Матч! HD
+http://hlsonline.info-link.ru/streaming/matchhd/324/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Спорт", Матч! Арена
+http://hlsonline.info-link.ru/streaming/match.arena/324/vh1w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Спорт", Матч! Арена HD
+http://hlsonline.info-link.ru/streaming/arenahd/324/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Спорт", Матч! Игра
+http://hlsonline.info-link.ru/streaming/match.igra/324/vh1w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Спорт", Матч! Игра HD
+http://hlsonline.info-link.ru/streaming/igrahd/324/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Спорт", Матч! Наш спорт
+http://hlsonline.info-link.ru/streaming/nashsport/324/vh1w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Спорт", Матч! Футбол 1 HD
+http://hlsonline.info-link.ru/streaming/footbal1hd/324/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Спорт", Матч! Футбол 2 HD
+http://hlsonline.info-link.ru/streaming/footbal2hd/324/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Спорт", Матч! Футбол 3 HD
+http://hlsonline.info-link.ru/streaming/footbal3hd/324/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Спорт", Точка отрыва
+http://hlsonline.info-link.ru/streaming/tochkaotriva/324/vh1w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Фильмы", A1
+http://hlsonline.info-link.ru/streaming/a1/324/vh1w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Фильмы", A2
+http://hlsonline.info-link.ru/streaming/a2/324/vh1w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Фильмы", Fox HD
+http://hlsonline.info-link.ru/streaming/foxhd/324/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Фильмы", Fox Life HD
+http://hlsonline.info-link.ru/streaming/foxlifehd/324/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Фильмы", Sony Turbo
+http://hlsonline.info-link.ru/streaming/sonyturbo/324/vh1w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Фильмы", TV1000
+http://hlsonline.info-link.ru/streaming/tv1000/324/vh1w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Фильмы", TV1000 Action
+http://hlsonline.info-link.ru/streaming/tv1000act/324/vh1w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Фильмы", TV1000 Русскoе кинo
+http://hlsonline.info-link.ru/streaming/tv1000ru/324/vh1w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Фильмы", Дом кино
+http://hlsonline.info-link.ru/streaming/domkino/324/vh1w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Фильмы", Индийское кинo
+http://hlsonline.info-link.ru/streaming/india/324/vh1w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Фильмы", Кино ТВ
+http://hlsonline.info-link.ru/streaming/kinotv/324/vh1w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Фильмы", Кинокомедия
+http://hlsonline.info-link.ru/streaming/kinocomedia/324/vh1w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Фильмы", Киносерия
+http://hlsonline.info-link.ru/streaming/kinoseria/324/vh1w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Фильмы", НТВ Сериал
+http://hlsonline.info-link.ru/streaming/ntvserial/324/vh1w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Фильмы", Ретро
+http://hlsonline.info-link.ru/streaming/retro/324/vh1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Фильмы", Родное кино
+http://hlsonline.info-link.ru/streaming/rodnoe/324/vh1w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Фильмы", Русский Иллюзион
+http://hlsonline.info-link.ru/streaming/rusilluzion/324/vh1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Фильмы", Феникс + Кино
+http://hlsonline.info-link.ru/streaming/fenixkino/324/vl2w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Центральные", 8 Канал
+http://hlsonline.info-link.ru/streaming/8kanal/324/vh1w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Центральные", Архыз 24 (Черкесск)
+http://hlsonline.info-link.ru/streaming/arhis24/324/vl2w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Центральные", Вместе-РФ
+http://hlsonline.info-link.ru/streaming/vmeste-rf/324/vh1w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Центральные", Волга (Нижний Новгород)
+http://hlsonline.info-link.ru/streaming/volga-nn/324/vl2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Центральные", Восток ТВ
+http://hlsonline.info-link.ru/streaming/tmb/324/vh1w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Центральные", Красная линия
+http://hlsonline.info-link.ru/streaming/redline/324/vh1w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Центральные", МИР HD
+http://hlsonline.info-link.ru/streaming/mirhd/324/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Центральные", Министерство Идей
+http://hlsonline.info-link.ru/streaming/minidei/324/vl2w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Центральные", НТВ
+http://hlsonline.info-link.ru/streaming/ntvnn/324/vm2w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Центральные", Наша Сибирь
+http://hlsonline.info-link.ru/streaming/sibirhd/324/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Центральные", Новое телевидение (Казахстан)
+http://hlsonline.info-link.ru/streaming/novoetv/324/vl2w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Центральные", ОТР
+http://hlsonline.info-link.ru/streaming/otr/324/vl2w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Центральные", Первый канал
+http://hlsonline.info-link.ru/streaming/1kanalott/324/vl2w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Центральные", Первый канал HD
+http://hlsonline.info-link.ru/streaming/1kanalhd/324/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Центральные", Продвижение
+http://hlsonline.info-link.ru/streaming/prodvijenie/324/vh1w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Центральные", РЖД HD
+http://hlsonline.info-link.ru/streaming/rjd/324/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Центральные", Россия 1 HD
+http://hlsonline.info-link.ru/streaming/rossiahd/324/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Центральные", Старт
+http://hlsonline.info-link.ru/streaming/start/324/vl2w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Центральные", ТВ Центр
+http://hlsonline.info-link.ru/streaming/tvcnn/324/vm2w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Центральные", ТВ-3
+http://hlsonline.info-link.ru/streaming/tv3/324/vl2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Центральные", ТНВ Татарстан
+http://hlsonline.info-link.ru/streaming/tnv/324/vm2w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Центральные", Центральное ТВ
+http://hlsonline.info-link.ru/streaming/centrtv/324/vh1w/playlist.m3u8
