@@ -3,6 +3,19 @@
 #EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
 http://bit.ly/TestadorIPTVVideoApresentacao
 
+#EXTINF:-1,FUTBOL 1
+http://s1.electru.biz:8080/timothy.shannon60@gmail.com/06hxDuw13L/29621
+
+#EXTINF:-1,FUTBOL 2
+http://s1.electru.biz:8080/timothy.shannon60@gmail.com/06hxDuw13L/26589
+
+#EXTINF:-1,Футбол 1
+https://sblive.online/lba/123/g6/ukrfoot1.m3u8
+
+#EXTINF:-1,Футбол 2
+http://185.8.178.140/fooootball2.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Детские", Ani
 http://hlsonline.info-link.ru/streaming/ani/324/vh1/playlist.m3u8
 
